@@ -1,1 +1,8 @@
-{"device": "desktop", "page_load_speed": 1.3266358375549316, "keywords_result": [{"keyword": "ieee", "rank": 3}, {"keyword": "conferences", "rank": 1}]}
+{
+  "device": "desktop",
+  "page_load_speed": 1.3266358375549316,
+  "keywords_result": [
+    { "keyword": "ieee", "rank": 3 },
+    { "keyword": "conferences", "rank": 1 }
+  ]
+}
