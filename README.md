@@ -7,7 +7,7 @@ The script does not uses proxies to check the site ranking for a keyword.
 
 Note. Using large number of keywords may lead to google stopping our process.
 
-The inspiration for this project came from : (Google-rank-tracker)[https://github.com/sundios/Google-rank-tracker]
+The inspiration for this project came from : [Google-rank-tracker](https://github.com/sundios/Google-rank-tracker)
 
 ## Table of Contents 
 
